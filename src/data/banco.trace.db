@@ -1,0 +1,6 @@
+2026-11-12 20:28:46.794282-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTIDADES" not found (this database is empty); SQL statement:
+insert into entidades (nome, categoria, quantidade, preco_unitario) values (?, ?, ?, ?) [42104-252]
+2026-11-12 20:31:35.076630-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTIDADES" not found (this database is empty); SQL statement:
+insert into entidades (nome, categoria, quantidade, preco_unitario) values (?, ?, ?, ?) [42104-252]
